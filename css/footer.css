@@ -1,0 +1,22 @@
+#idfooter
+{
+    /*border: 1px solid red;*/
+    width: 100%;
+    margin-top: 5px;
+    color: #fff;
+    background-color: #1a2537;
+    height: 30px;
+    text-align: center;
+ 
+
+    position:fixed;
+    left:0px;
+    bottom:0px;
+}
+
+#pfooter
+{
+    /*border: 1px solid red;*/
+    font-size: 12px;
+    margin-top: 6px;
+}
